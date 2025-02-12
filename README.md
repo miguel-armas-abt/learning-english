@@ -2,8 +2,7 @@
 
 > [README template](path/00-readme-template/README.md)
 
-- [01. Verb "to be"](path/01-be/README.md)
-- [02. Simple present](path/02-simple-present/README.md)
+- [01. Verb "to be"](path/02-be/README.md)
 - [03. `the`](path/03-the/README.md)
 - [04. `this`, `these`, `that`, `those`](path/04-this-these-that-those/README.md)
 - [05. `of`](path/05-of/README.md)
